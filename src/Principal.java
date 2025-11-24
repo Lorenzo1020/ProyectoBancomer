@@ -13,7 +13,10 @@ public class Principal {
 
 		// Declarar la lista para realizar el --- CRUD
 		System.out.println("Hola mundo");
-		System.out.println("Que tengas un buen dia "+10);
+		System.out.println("Que tengas un buen dia " + 10);
+		
+		float numer1 = 20, numero2 = 50;
+		System.out.println("El resultado es " + numer1 * numero2);
 
 		// Que es una libreria: Es un conjunto de clases desarrollados por alguien mas
 		// para que nuestras aplicaciones funcionen correctamente
