@@ -12,6 +12,8 @@ public class Principal {
 		/* Indice 2 */Empleados empleado3 = new Empleados(3, "Hector", 17000, false);
 
 		// Declarar la lista para realizar el --- CRUD
+		System.out.println("Hola mundo");
+		System.out.println("Que tengas un buen dia "+10);
 
 		// Que es una libreria: Es un conjunto de clases desarrollados por alguien mas
 		// para que nuestras aplicaciones funcionen correctamente
